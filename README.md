@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adamarthis
-- 👀 I’m interested in programming and creating games
-- 🌱 I’m currently learning c#
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently studying in DonNU
 - 💞️ I’m looking to collaborate on some fun project
 - 📫 How to reach me [telegram @adamarthis]
